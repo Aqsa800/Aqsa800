@@ -27,6 +27,11 @@ I am interested in work that connects useful interfaces with well-structured API
 | Databases | SQL, MySQL, PostgreSQL, MongoDB |
 | Development tools | Git, GitHub, Laravel Sail, Vite |
 
+## Languages
+
+- **English:** C1
+- **German:** B1
+
 ## Featured project
 
 ### [UnfallAtlas DE — German road accident data platform](https://github.com/Aqsa800/unfallatlas-de)
