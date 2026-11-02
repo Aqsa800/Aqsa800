@@ -23,8 +23,8 @@ I am interested in work that connects useful interfaces with well-structured API
 | Area | Technologies |
 | :--- | :--- |
 | Frontend | React, Next.js, Vue.js, TypeScript, JavaScript, HTML, CSS |
-| Backend | PHP, Laravel, Livewire, REST APIs |
-| Databases | MySQL, PostgreSQL |
+| Backend | Python, Node.js, PHP, Laravel, Livewire, REST APIs |
+| Databases | SQL, MySQL, PostgreSQL, MongoDB |
 | Development tools | Git, GitHub, Laravel Sail, Vite |
 
 ## Featured project
