@@ -53,3 +53,10 @@ A university project at TU Chemnitz that brings German road accident open data i
 Looking for a working student who brings professional development experience alongside master's studies?
 
 [Contact me on LinkedIn →](https://www.linkedin.com/in/aqsa-ghulam-hussain/)
+
+
+## Currently learning
+
+I am studying applied AI engineering through [The AI Engineer Course on Udemy](https://www.udemy.com/course/the-ai-engineer-course-complete-ai-engineer-bootcamp/). My learning focus is Python, large language models, and integrating AI features into web applications.
+
+**Course in progress** — building on my full stack software engineering experience.
